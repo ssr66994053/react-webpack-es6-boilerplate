@@ -1,8 +1,8 @@
 {
-  "name": "monitor2",
+  "name": "react-webpack-es6-boilerplate",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "a boilerplate of react with webpack",
+  "main": "app.js",
   "babel": {
     "presets": [
       "es2015"
@@ -13,8 +13,8 @@
     "pack": "./node_modules/.bin/webpack"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Ryan_Su",
+  "license": "MIT",
   "dependencies": {
     "react": "^15.1.0",
     "react-dom": "^15.1.0"
